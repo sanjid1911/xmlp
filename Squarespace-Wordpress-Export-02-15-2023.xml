@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>NITER_Neophytes</title>
+    <link>http://www.neophytes.com</link>
+    <pubDate>Wed, 15 Feb 2023 13:27:27 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>2134965776</wp:author_id>
+      <wp:author_login>sadikshibly779@gmail.com</wp:author_login>
+      <wp:author_email>sadikshibly779@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Shibly Sadik]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Shibly]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Sadik]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Wed, 15 Feb 2023 14:25:09 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63ecddc64a19cc2e2a68db2c" id="sections">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="63ecddc64a19cc2e2a68db3c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;63ecdf360f546b2f84a9e414&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1676468022213,
+    &quot;updatedOn&quot;: 1676468022286,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1676468022213,
+    &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+    &quot;systemDataId&quot;: &quot;9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc&quot;,
+    &quot;systemDataVariants&quot;: &quot;2048x1538,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;3.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;b2d4ea&quot;,
+      &quot;topRightAverage&quot;: &quot;9895c8&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;927e78&quot;,
+      &quot;bottomRightAverage&quot;: &quot;6c5c52&quot;,
+      &quot;centerAverage&quot;: &quot;847071&quot;,
+      &quot;suggestedBgColor&quot;: &quot;96909d&quot;
+    },
+    &quot;urlId&quot;: &quot;jmrpvo9r0jehtmna2fsuuaxt33efnb&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+      &quot;firstName&quot;: &quot;Shibly&quot;,
+      &quot;lastName&quot;: &quot;Sadik&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2048x1538&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.33,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;parallax&quot;,
+    &quot;rotation&quot;: 90,
+    &quot;intensity&quot;: 30
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXParallax"
+  >
+  
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg" data-image-dimensions="2048x1538" data-image-focal-point="0.5,0.5" alt="3.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/9bfcf4f0-2f27-4ca0-86b4-13b9c78425dc/3.jpg?format=original 2500w"
+        
+        sizes="(max-width: 799px) 200vw, 100vw" 
+        onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.33;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63ecddc64a19cc2e2a68db3b {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63ecddc64a19cc2e2a68db3b {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63ecddc64a19cc2e2a68db3b {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(10,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ed96e64f1e27e069134a {
+    grid-area: 1/2/4/10;
+    z-index: 2;
+  }
+
+  .fe-block-ed96e64f1e27e069134a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ed96e64f1e27e069134a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ed96e64f1e27e069134a {
+      grid-area: 3/9/5/21;
+      z-index: 2;
+    }
+
+    .fe-block-ed96e64f1e27e069134a .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ed96e64f1e27e069134a .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_11154 {
+    grid-area: 4/2/6/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_11154 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_11154 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1676467839800_11154 {
+      grid-area: 1/11/3/17;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_11154 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_11154 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_21483 {
+    grid-area: 6/2/8/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_21483 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_21483 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1676467839800_21483 {
+      grid-area: 5/12/6/16;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_21483 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_21483 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_46241 {
+    grid-area: 8/2/10/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_46241 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_46241 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1676467839800_46241 {
+      grid-area: 9/3/11/7;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_46241 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_46241 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_50168 {
+    grid-area: 10/2/12/10;
+    z-index: 6;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_50168 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1676467839800_50168 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1676467839800_50168 {
+      grid-area: 9/19/11/23;
+      z-index: 6;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_50168 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1676467839800_50168 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63ecddc64a19cc2e2a68db3b"><div class="fe-block fe-block-ed96e64f1e27e069134a"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ed96e64f1e27e069134a"><div class="sqs-block-content">
+
+<h4 style="text-align:center;white-space:pre-wrap;">National Institute of Textile Engineering and Research </h4>
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1676467839800_11154"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1676467839800_11154"><div class="sqs-block-content">
+
+<h3 style="text-align:center;white-space:pre-wrap;">NITER</h3>
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1676467839800_21483"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1676467839800_21483"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="large"
+  data-button-type="secondary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
+    
+  >
+    Learn more
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1676467839800_46241"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1676467839800_46241"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="large"
+  data-button-type="secondary"
+>
+  <a
+    href="/member-list"
+    class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
+    
+  >
+    MEMBER LIST
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1676467839800_50168"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1676467839800_50168"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="large"
+  data-button-type="secondary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
+    
+  >
+    Achivement
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Wed, 15 Feb 2023 14:12:19 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63ece3ec68dde800fe3ec88f" id="sections">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="63ece3ec68dde800fe3ec893"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63ece3ec68dde800fe3ec892 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63ece3ec68dde800fe3ec892 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63ece3ec68dde800fe3ec892 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(22,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-65bb60a0912d410aabd9 {
+    grid-area: 1/2/15/10;
+    z-index: 0;
+  }
+
+  .fe-block-65bb60a0912d410aabd9 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-65bb60a0912d410aabd9 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-65bb60a0912d410aabd9 {
+      grid-area: 1/15/16/26;
+      z-index: 0;
+    }
+
+    .fe-block-65bb60a0912d410aabd9 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-65bb60a0912d410aabd9 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-4272e49758859f712df5 {
+    grid-area: 15/2/17/10;
+    z-index: 1;
+  }
+
+  .fe-block-4272e49758859f712df5 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-4272e49758859f712df5 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4272e49758859f712df5 {
+      grid-area: 2/2/5/13;
+      z-index: 1;
+    }
+
+    .fe-block-4272e49758859f712df5 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-4272e49758859f712df5 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c4d15da15e2c6de1c9a7 {
+    grid-area: 17/2/29/10;
+    z-index: 2;
+  }
+
+  .fe-block-c4d15da15e2c6de1c9a7 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-c4d15da15e2c6de1c9a7 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c4d15da15e2c6de1c9a7 {
+      grid-area: 5/2/23/13;
+      z-index: 2;
+    }
+
+    .fe-block-c4d15da15e2c6de1c9a7 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-c4d15da15e2c6de1c9a7 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63ece3ec68dde800fe3ec892"><div class="fe-block fe-block-65bb60a0912d410aabd9"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="100" data-block-type="5" id="block-65bb60a0912d410aabd9"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <svg data-image-mask-id="65bb60a0912d410aabd9" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="65bb60a0912d410aabd9" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="circle"
+          style="overflow: hidden;clip-path: url(#65bb60a0912d410aabd9);-webkit-clip-path: url(#65bb60a0912d410aabd9);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/fc67911c-1ec5-4699-a470-276b2eb88b41/logo.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/fc67911c-1ec5-4699-a470-276b2eb88b41/logo.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/fc67911c-1ec5-4699-a470-276b2eb88b41/logo.jpg" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+        .fe-block-65bb60a0912d410aabd9 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-4272e49758859f712df5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4272e49758859f712df5"><div class="sqs-block-content">
+
+<h2 style="white-space:pre-wrap;">Who We Are</h2>
+
+
+</div></div></div><div class="fe-block fe-block-c4d15da15e2c6de1c9a7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c4d15da15e2c6de1c9a7"><div class="sqs-block-content">
+
+<p class="sqsrte-large" style="white-space:pre-wrap;">We are team NITER Neophytes, a group of ambitious and hardworking cybersecurity students who have competed in various contests and are committed to making a difference in our country and university. We have the potential to make a significant difference in the field thanks to our passion for cybersecurity and your eagerness to learn. Your tenacity and collaborative problem-solving approach make us a formidable team capable of tackling complex challenges and developing novel solutions. Our dedication to putting your skills to good use demonstrates our commitment to improving the safety and security of our community. With our high moral and and principle of mutul learning, we have a bright future ahead in the cybersecurity industry.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/member-list-1</link>
+      <title>MEMBER LIST</title>
+      <pubDate>Wed, 15 Feb 2023 15:04:20 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63ecec023ff09626a4661cb7" id="sections">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      user-items-list-section
+      full-bleed-section
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+      
+    
+    
+    white'
+  
+  data-section-id="63ecec2fbeeb4d30e4520a88"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageFocalPoint&quot;: {
+    &quot;x&quot;: 0.5,
+    &quot;y&quot;: 0.5
+  },
+  &quot;imageOverlayOpacity&quot;: 0.3,
+  &quot;backgroundColor&quot;: &quot;white&quot;,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation=""
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+  class="user-items-list"
+  style="
+    min-height: 100px;
+    padding-top: 6.6vmax;
+    padding-bottom: 6.6vmax;
+    "
+  data-card-theme=""
+  data-section-id="user-items-list"
+  data-section-title-enabled="true"
+  data-space-below-section-title-value="70"
+  data-space-below-section-title-unit="px"
+  data-layout-width="full"
+>
+  
+    
+    <div class="list-section-title"
+      id="63ecec2fbeeb4d30e4520a88"
+      style= "padding-bottom: 70px;"
+      data-section-title-alignment="center"
+    >
+      <p class="" style="white-space:pre-wrap;">Meet the Team</p>
+    </div>
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .user-items-list-item-container[data-section-id="63ecec2fbeeb4d30e4520a88"] .list-item-content__title {
+    font-size: 1.2rem;
+  }
+  .user-items-list-item-container[data-section-id="63ecec2fbeeb4d30e4520a88"] .list-item-content__description {
+    font-size: 0.9rem;
+  }
+  .user-items-list-item-container[data-section-id="63ecec2fbeeb4d30e4520a88"] .list-item-content__button {
+    font-size: 0.8rem;
+  }
+
+  @supports (--test-custom-property: true) {
+    .user-items-list-item-container[data-section-id="63ecec2fbeeb4d30e4520a88"] {
+      --title-font-size-value: 1.2;
+      --body-font-size-value: 0.9;
+      --button-font-size-value: 0.8;
+    }
+  }
+</style>
+
+
+<ul class="
+    user-items-list-item-container
+    user-items-list-simple
+  "
+  style="
+    grid-gap: 100px 100px;
+  "
+  data-controller="UserItemsListSimple"
+  data-num-columns="3"
+  data-content-order="media-first"
+  data-alignment-vertical="top"
+  data-section-id="63ecec2fbeeb4d30e4520a88"
+  data-current-context="{
+  &quot;userItems&quot;: [ {
+    &quot;title&quot;: &quot;Shibly Sadik&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;FOUNDER&lt;\/p&gt;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Forensics,Osint,Misc&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;,
+      &quot;buttonLink&quot;: &quot;#&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecec9c7bfb300310a36329&quot;,
+    &quot;imageAltText&quot;: &quot;&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecec9c7bfb300310a36329&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676471452691,
+      &quot;updatedOn&quot;: 1676471452753,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676471452691,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;f892baec-7c75-426e-9894-c04871a715cb&quot;,
+      &quot;systemDataVariants&quot;: &quot;4000x6000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;sadik3.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;7b6e63&quot;,
+        &quot;topRightAverage&quot;: &quot;807879&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;2c241a&quot;,
+        &quot;bottomRightAverage&quot;: &quot;9d867f&quot;,
+        &quot;centerAverage&quot;: &quot;8a5136&quot;,
+        &quot;suggestedBgColor&quot;: &quot;79695e&quot;
+      },
+      &quot;urlId&quot;: &quot;v72qpzj9fjq5bpz48yidja946a7uso&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/f892baec-7c75-426e-9894-c04871a715cb/sadik3.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;4000x6000&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Shanaz Fatemi Esha&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Cryptography ,Osint&lt;\/p&gt;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Reverse Engineering,Binary Explotation &lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;
+    },
+    &quot;imageId&quot;: &quot;63eceeae25dc852766102877&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63eceeae25dc852766102877&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676471982475,
+      &quot;updatedOn&quot;: 1676471982558,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676471982475,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;17562931-eac3-4600-81b1-208c5c94dc0d&quot;,
+      &quot;systemDataVariants&quot;: &quot;1536x2048,100w,300w,500w,750w,1000w,1500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;Esha.jpeg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;cfd2ce&quot;,
+        &quot;topRightAverage&quot;: &quot;dfd6c6&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;c7b59f&quot;,
+        &quot;bottomRightAverage&quot;: &quot;27241e&quot;,
+        &quot;centerAverage&quot;: &quot;d8d7d0&quot;,
+        &quot;suggestedBgColor&quot;: &quot;998b7d&quot;
+      },
+      &quot;urlId&quot;: &quot;79gwnx42379qaf4ubk7snx58v9e3be&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/17562931-eac3-4600-81b1-208c5c94dc0d/Esha.jpeg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1536x2048&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Hasan Nawab &quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Steganography ,Osint&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecf08855dac9409718841f&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecf08855dac9409718841f&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676472456669,
+      &quot;updatedOn&quot;: 1676472456788,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676472456669,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;18547a88-4741-449d-bc46-de8e39898ac7&quot;,
+      &quot;systemDataVariants&quot;: &quot;1366x2048,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;soikot.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;807e79&quot;,
+        &quot;topRightAverage&quot;: &quot;342c19&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;80736a&quot;,
+        &quot;bottomRightAverage&quot;: &quot;817871&quot;,
+        &quot;centerAverage&quot;: &quot;8f8084&quot;,
+        &quot;suggestedBgColor&quot;: &quot;6c5d4e&quot;
+      },
+      &quot;urlId&quot;: &quot;cyh9yfoz4pxvnl0zo8bhs6zd7rff32&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/18547a88-4741-449d-bc46-de8e39898ac7/soikot.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1366x2048&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Khandakar Asif Mahmud&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Reverse Engineering, Binary Exploitation, Pwn&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecf1445993bf5cb1374f4a&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecf1445993bf5cb1374f4a&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676472644256,
+      &quot;updatedOn&quot;: 1676472644336,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676472644256,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;12be73ab-5e7f-4956-bbce-4d2946e92bff&quot;,
+      &quot;systemDataVariants&quot;: &quot;1000x1500,100w,300w,500w,750w,1000w,1500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;asif.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;ffffff&quot;,
+        &quot;topRightAverage&quot;: &quot;ffffff&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;f7f4f6&quot;,
+        &quot;bottomRightAverage&quot;: &quot;5b3e52&quot;,
+        &quot;centerAverage&quot;: &quot;88686e&quot;,
+        &quot;suggestedBgColor&quot;: &quot;b4a4af&quot;
+      },
+      &quot;urlId&quot;: &quot;ljoq4zilzk9wfvyhlfghceb0p3v2sk&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/12be73ab-5e7f-4956-bbce-4d2946e92bff/asif.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1000x1500&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Moriom Kamal&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Cryptography&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecf199a2b4b56fda18291a&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecf199a2b4b56fda18291a&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676472729553,
+      &quot;updatedOn&quot;: 1676472729637,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676472729553,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;369563e7-9ca5-42c1-b9ab-2dea53411d5e&quot;,
+      &quot;systemDataVariants&quot;: &quot;960x1280,100w,300w,500w,750w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;bitthe.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;1e1d1f&quot;,
+        &quot;topRightAverage&quot;: &quot;adacac&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;0a0a0a&quot;,
+        &quot;bottomRightAverage&quot;: &quot;0c0b0d&quot;,
+        &quot;centerAverage&quot;: &quot;151517&quot;,
+        &quot;suggestedBgColor&quot;: &quot;3f3b3a&quot;
+      },
+      &quot;urlId&quot;: &quot;qdr21afx12ltwoa1ypq70jwiwpm9uc&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/369563e7-9ca5-42c1-b9ab-2dea53411d5e/bitthe.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;960x1280&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Mozammal Hossain Tanvir&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Expert in Forensics, Networking,Osint&lt;\/p&gt;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Practioner in Bug Bounty&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Read Bio&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecf21b6b5d8100b4990f33&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecf21b6b5d8100b4990f33&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676472859505,
+      &quot;updatedOn&quot;: 1676472859591,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676472859505,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;db13fe76-53f2-41df-abd1-f346059814ec&quot;,
+      &quot;systemDataVariants&quot;: &quot;742x927,100w,300w,500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;tanvir.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;bebbb6&quot;,
+        &quot;topRightAverage&quot;: &quot;e9e9e7&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;2e3d10&quot;,
+        &quot;bottomRightAverage&quot;: &quot;2b2f0e&quot;,
+        &quot;centerAverage&quot;: &quot;b9b3ab&quot;,
+        &quot;suggestedBgColor&quot;: &quot;989484&quot;
+      },
+      &quot;urlId&quot;: &quot;xmawwx8ulhfjrrpqji42x545yj4ju3&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/db13fe76-53f2-41df-abd1-f346059814ec/tanvir.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;742x927&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Foysal Ahmed&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Practicing in Web Hacking&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;63ecf4654cea2f4ba89a53fd&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;63ecf4654cea2f4ba89a53fd&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1676473445940,
+      &quot;updatedOn&quot;: 1676473446031,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1676473445940,
+      &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;systemDataId&quot;: &quot;57eb9c5b-2fe9-402f-9a42-985c4034b1c7&quot;,
+      &quot;systemDataVariants&quot;: &quot;1280x960,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;foysal.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;f6f4f3&quot;,
+        &quot;topRightAverage&quot;: &quot;f2eeed&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;aca6a3&quot;,
+        &quot;bottomRightAverage&quot;: &quot;a6a19e&quot;,
+        &quot;centerAverage&quot;: &quot;d0cbc8&quot;,
+        &quot;suggestedBgColor&quot;: &quot;a29fa1&quot;
+      },
+      &quot;urlId&quot;: &quot;k6ufchmlz3adevooyqzrq1qe8xtm2l&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+        &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+        &quot;firstName&quot;: &quot;Shibly&quot;,
+        &quot;lastName&quot;: &quot;Sadik&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/57eb9c5b-2fe9-402f-9a42-985c4034b1c7/foysal.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1280x960&quot;
+    }
+  } ],
+  &quot;styles&quot;: {
+    &quot;imageFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5
+    },
+    &quot;imageOverlayOpacity&quot;: 0.3,
+    &quot;backgroundColor&quot;: &quot;white&quot;,
+    &quot;sectionTheme&quot;: &quot;white&quot;,
+    &quot;imageEffect&quot;: &quot;none&quot;,
+    &quot;backgroundMode&quot;: &quot;image&quot;,
+    &quot;backgroundImage&quot;: null
+  },
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageFocalPoint&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;options&quot;: {
+    &quot;maxColumns&quot;: 3,
+    &quot;isCardEnabled&quot;: true,
+    &quot;isMediaEnabled&quot;: true,
+    &quot;isTitleEnabled&quot;: true,
+    &quot;isBodyEnabled&quot;: true,
+    &quot;isButtonEnabled&quot;: false,
+    &quot;mediaAspectRatio&quot;: &quot;circle&quot;,
+    &quot;layoutWidth&quot;: &quot;full&quot;,
+    &quot;mediaWidth&quot;: {
+      &quot;value&quot;: 75,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;mediaAlignment&quot;: &quot;center&quot;,
+    &quot;contentWidth&quot;: {
+      &quot;value&quot;: 75,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;titleAlignment&quot;: &quot;center&quot;,
+    &quot;bodyAlignment&quot;: &quot;center&quot;,
+    &quot;buttonAlignment&quot;: &quot;center&quot;,
+    &quot;titlePlacement&quot;: &quot;center&quot;,
+    &quot;bodyPlacement&quot;: &quot;center&quot;,
+    &quot;buttonPlacement&quot;: &quot;center&quot;,
+    &quot;cardVerticalAlignment&quot;: &quot;top&quot;,
+    &quot;contentOrder&quot;: &quot;media-first&quot;,
+    &quot;verticalPaddingTop&quot;: {
+      &quot;value&quot;: 6.6,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;verticalPaddingBottom&quot;: {
+      &quot;value&quot;: 6.6,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;spaceBetweenColumns&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenRows&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenContentAndMedia&quot;: {
+      &quot;value&quot;: 8,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowTitle&quot;: {
+      &quot;value&quot;: 4,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowBody&quot;: {
+      &quot;value&quot;: 8,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingTop&quot;: {
+      &quot;value&quot;: 5,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingRight&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingBottom&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingLeft&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;titleFontSize&quot;: &quot;heading-2&quot;,
+    &quot;bodyFontSize&quot;: &quot;paragraph-2&quot;,
+    &quot;buttonFontSize&quot;: &quot;button-medium&quot;,
+    &quot;customOptions&quot;: {
+      &quot;customTitleFontSize&quot;: {
+        &quot;value&quot;: 1.2,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customBodyFontSize&quot;: {
+        &quot;value&quot;: 0.9,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customButtonFontSize&quot;: {
+        &quot;value&quot;: 0.8,
+        &quot;unit&quot;: &quot;rem&quot;
+      }
+    }
+  },
+  &quot;layout&quot;: &quot;simple&quot;,
+  &quot;isSectionTitleEnabled&quot;: true,
+  &quot;sectionTitle&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Meet the Team&lt;\/p&gt;&quot;,
+  &quot;spaceBelowSectionTitle&quot;: {
+    &quot;value&quot;: 70,
+    &quot;unit&quot;: &quot;px&quot;
+  },
+  &quot;sectionTitleAlignment&quot;: &quot;center&quot;,
+  &quot;isSectionButtonEnabled&quot;: false,
+  &quot;sectionButton&quot;: {
+    &quot;buttonText&quot;: &quot;Make It&quot;,
+    &quot;buttonLink&quot;: &quot;#&quot;,
+    &quot;buttonNewWindow&quot;: false
+  },
+  &quot;sectionButtonSize&quot;: &quot;large&quot;,
+  &quot;sectionButtonAlignment&quot;: &quot;center&quot;,
+  &quot;spaceAboveSectionButton&quot;: {
+    &quot;value&quot;: 70,
+    &quot;unit&quot;: &quot;px&quot;
+  }
+}"
+  data-media-alignment="center"
+  data-title-alignment="center"
+  data-body-alignment="center"
+  data-button-alignment="center"
+  data-title-placement="center"
+  data-body-placement="center"
+  data-button-placement="center"
+  data-layout-width="full"
+  data-title-font-unit="rem"
+  data-description-font-unit="rem"
+  data-button-font-unit="rem"
+  data-space-between-rows="100px"
+  data-space-between-columns="100px"
+  data-vertical-padding-top-value="6.6"
+  data-vertical-padding-bottom-value="6.6"
+  data-vertical-padding-top-unit="vmax"
+  data-vertical-padding-bottom-unit="vmax"
+>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/f892baec-7c75-426e-9894-c04871a715cb/sadik3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/f892baec-7c75-426e-9894-c04871a715cb/sadik3.jpg" data-image-dimensions="4000x6000" data-image-focal-point="0.5,0.5" alt="sadik3.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Shibly Sadik</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">FOUNDER</p><p class="" style="white-space:pre-wrap;">Expert in Forensics,Osint,Misc</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/17562931-eac3-4600-81b1-208c5c94dc0d/Esha.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/17562931-eac3-4600-81b1-208c5c94dc0d/Esha.jpeg" data-image-dimensions="1536x2048" data-image-focal-point="0.5,0.5" alt="Esha.jpeg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Shanaz Fatemi Esha</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Expert in Cryptography ,Osint</p><p class="" style="white-space:pre-wrap;">Reverse Engineering,Binary Explotation </p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/18547a88-4741-449d-bc46-de8e39898ac7/soikot.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/18547a88-4741-449d-bc46-de8e39898ac7/soikot.jpg" data-image-dimensions="1366x2048" data-image-focal-point="0.5,0.5" alt="soikot.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Hasan Nawab </h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Expert in Steganography ,Osint</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/12be73ab-5e7f-4956-bbce-4d2946e92bff/asif.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/12be73ab-5e7f-4956-bbce-4d2946e92bff/asif.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="asif.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Khandakar Asif Mahmud</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Expert in Reverse Engineering, Binary Exploitation, Pwn</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/369563e7-9ca5-42c1-b9ab-2dea53411d5e/bitthe.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/369563e7-9ca5-42c1-b9ab-2dea53411d5e/bitthe.jpg" data-image-dimensions="960x1280" data-image-focal-point="0.5,0.5" alt="bitthe.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Moriom Kamal</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Expert in Cryptography</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/db13fe76-53f2-41df-abd1-f346059814ec/tanvir.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/db13fe76-53f2-41df-abd1-f346059814ec/tanvir.jpg" data-image-dimensions="742x927" data-image-focal-point="0.5,0.5" alt="tanvir.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Mozammal Hossain Tanvir</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Expert in Forensics, Networking,Osint</p><p class="" style="white-space:pre-wrap;">Practioner in Bug Bounty</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 5px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 8%;
+          
+          width: 75%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+          <img
+            
+            data-image-focal-point=","
+            
+            alt=""
+            src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/57eb9c5b-2fe9-402f-9a42-985c4034b1c7/foysal.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/57eb9c5b-2fe9-402f-9a42-985c4034b1c7/foysal.jpg" data-image-dimensions="1280x960" data-image-focal-point="0.5,0.5" alt="foysal.jpg" 
+            class="list-image"
+            data-load="false"
+            data-mode="cover"
+            data-use-advanced-positioning="true"
+          />
+        </div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 75%;"
+        >Foysal Ahmed</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 4%;
+            max-width: 75%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Practicing in Web Hacking</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+</div>
+
+      
+      
+    </li>
+  
+</ul>
+
+  
+
+  
+
+  
+
+  
+</div>
+
+      
+      
+      
+    </div>
+  </div>
+  
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>member-list-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/learn-more</link>
+      <title>Learn more</title>
+      <pubDate>Wed, 15 Feb 2023 15:15:02 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63ecf4974a19cc2e2a6bdcda" id="sections">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--inset
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="63ecf4b6dac5dc11543497e6"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;63ecf6de356b8e4228f3b3d7&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1676474078406,
+    &quot;updatedOn&quot;: 1676474078485,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1676474078406,
+    &quot;authorId&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+    &quot;systemDataId&quot;: &quot;2717c7b4-e8ba-4dad-96cb-bb286f20485f&quot;,
+    &quot;systemDataVariants&quot;: &quot;1248x708,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;Screenshot 2023-02-13 at 21-48-37 Facebook.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;738b9a&quot;,
+      &quot;topRightAverage&quot;: &quot;c3bbce&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;6c8c8e&quot;,
+      &quot;bottomRightAverage&quot;: &quot;4c6e80&quot;,
+      &quot;centerAverage&quot;: &quot;96a0ae&quot;,
+      &quot;suggestedBgColor&quot;: &quot;7b929a&quot;
+    },
+    &quot;urlId&quot;: &quot;iwyoz5enhimeka5qr4rc4akwl9y552&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;63ecd809a97ba23368cda373&quot;,
+      &quot;displayName&quot;: &quot;Shibly Sadik&quot;,
+      &quot;firstName&quot;: &quot;Shibly&quot;,
+      &quot;lastName&quot;: &quot;Sadik&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/63ecd80af45d9c0e8d34730c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;1248x708&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+              
+
+
+
+  
+    
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+    Object.assign(imageEl.style, {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    });
+  };
+</script>
+
+  
+
+
+
+  
+  
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg" data-image-dimensions="1248x708" data-image-focal-point="0.5,0.5" alt="Screenshot 2023-02-13 at 21-48-37 Facebook.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/63ecddbfce9cf803298d7f04/2717c7b4-e8ba-4dad-96cb-bb286f20485f/Screenshot+2023-02-13+at+21-48-37+Facebook.jpg?format=original 1500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+
+
+
+            
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63ecf4b6dac5dc11543497e5 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 10.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (10.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 10.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63ecf4b6dac5dc11543497e5 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63ecf4b6dac5dc11543497e5 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 10.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (10.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(39,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-dd5f11a1160cc1b66098 {
+    grid-area: 2/2/6/10;
+    z-index: 2;
+  }
+
+  .fe-block-dd5f11a1160cc1b66098 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-dd5f11a1160cc1b66098 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-dd5f11a1160cc1b66098 {
+      grid-area: 6/5/9/10;
+      z-index: 2;
+    }
+
+    .fe-block-dd5f11a1160cc1b66098 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-dd5f11a1160cc1b66098 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-126e2f95a4127d7720b7 {
+    grid-area: 6/2/7/10;
+    z-index: 3;
+  }
+
+  .fe-block-126e2f95a4127d7720b7 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-126e2f95a4127d7720b7 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-126e2f95a4127d7720b7 {
+      grid-area: 10/2/11/13;
+      z-index: 3;
+    }
+
+    .fe-block-126e2f95a4127d7720b7 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-126e2f95a4127d7720b7 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a9d7253f88ac9cc9aeff {
+    grid-area: 7/2/16/10;
+    z-index: 1;
+  }
+
+  .fe-block-a9d7253f88ac9cc9aeff .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a9d7253f88ac9cc9aeff .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a9d7253f88ac9cc9aeff {
+      grid-area: 9/2/40/13;
+      z-index: 1;
+    }
+
+    .fe-block-a9d7253f88ac9cc9aeff .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a9d7253f88ac9cc9aeff .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63ecf4b6dac5dc11543497e5"><div class="fe-block fe-block-dd5f11a1160cc1b66098"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-dd5f11a1160cc1b66098"><div class="sqs-block-content">
+
+<h3 style="white-space:pre-wrap;">About NITER</h3>
+
+
+</div></div></div><div class="fe-block fe-block-126e2f95a4127d7720b7"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-126e2f95a4127d7720b7"><div class="sqs-block-content"><hr /></div></div></div><div class="fe-block fe-block-a9d7253f88ac9cc9aeff"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a9d7253f88ac9cc9aeff"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--custom" style="color: rgb(20, 21, 18)">National Institute of Textile Engineering and Research (NITER) is the  first education institute running as a Public-Private-Partnership (PPP)  organization under the Ministry of Textiles &amp; Jute, GoB. It is  located in its own campus at Nayarhat, Savar, Dhaka adjacent to the  Dhaka-Aricha highway and enjoys excellent communication facilities  connecting among important cities of the country. The total campus area  of NITER is 13.06 Acres with adequate built up space in its academic,  administrative, hostels, Canteen and other buildings.</span></p><p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--custom" style="color: rgb(20, 21, 18)">As per the decision of the Ministry of Textiles &amp; Jute, NITER has  been running under the management of ‘Bangladesh Textile Mills  Association (BTMA)’ since September 2008. An operational agreement was  signed between ‘Bangladesh Textile Mills Association (BTMA)’ and  ‘Bangladesh Textile Mills Corporation (BTMC)’ under the Ministry of  Textiles &amp; Jute. After signing the agreement, BTMA actively took the  responsibilities of NITER on May, 2009. That time it was known as  ‘National Institute of Textile Training Research and Design (NITTRAD)’.</span></p><p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--custom" style="color: rgb(20, 21, 18)">BTMA expanded the academic span of the institute and started B. Sc.  in Textile Engineering course under the Faculty of Engineering &amp;  Technology of the University of Dhaka. From 2010-2011 session, B. Sc. in  Textile Engineering course was started. Considering the nature and  future prospect of this institute, the University of Dhaka requested the  Ministry of Textiles &amp; Jute to change the name of NITTRAD.  Accordingly the Ministry renamed NITTRAD as ‘National Institute of  Textile Engineering and Research (NITER)’ from January 2013.</span></p><p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--custom" style="color: rgb(20, 21, 18)">Apart from Textile Engineering course, NITER is now offering four  other important engineering courses namely B. Sc. in Industrial &amp;  Production Engineering (IPE) and Fashion Design &amp; Apparel  Engineering (FDAE), Computer Science &amp; Engineering (CSE) and  Electrical &amp; Electronics Engineering (EEE) to meet the present  demand skilled manpower as well as the automation of our Textile and  allied sector. Furthermore NITER has started M.Sc. in Textile  Engineering course under the Faculty of Engineering &amp; Technology and  MBA in Textile &amp; Apparel Value Chain under the faculty of Business  Studies of the University of Dhaka. Near about 2500 students are  studying in these courses and the numbers are increasing every year.</span></p><p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--custom" style="color: rgb(20, 23, 17)">NITER is being operated by a ‘Governing Body’ consists of the members  from BTMA, Ministry of Textiles &amp; Jute, BTMC, University of Dhaka  and from the institute as well.&nbsp;Mohammad Ali Khokon, renowned  industrialist and the President of BTMA is the Chairman of the Governing  Body.</span></p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>learn-more</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
